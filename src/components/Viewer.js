@@ -6,31 +6,31 @@ function Viewer() {
     return (
         <Container>
             <Wrap>
-                <img src="/img/viewer/viewer-earth.png" alt=""/>
+                <img src="https://firebasestorage.googleapis.com/v0/b/astralio.appspot.com/o/Viewer-earth.png?alt=media&token=008b3081-35ba-47f0-8dd3-247e3d844a1f" alt=""/>
                 {/* <video autoPlay={true} loop={true} playsInline={true} >
                     <source src="/videos/earth.mp4" type="video/mp4" />
                 </video> */}
             </Wrap>
             <Wrap>
-                <img src="/img/viewer/viewer-ss.png" alt=""/>
+                <img src="https://firebasestorage.googleapis.com/v0/b/astralio.appspot.com/o/Viewer-ss.png?alt=media&token=ea2cfdc2-6477-4812-9f22-3db33c097c8b" alt=""/>
                 {/* <video autoPlay={true} loop={true} playsInline={true} >
                     <source src="/videos/galaxy.mp4" type="video/mp4" />
                 </video> */}
             </Wrap>
             <Wrap>
-                <img src="/img/viewer/viewer-galaxy.png" alt=""/>
+                <img src="https://firebasestorage.googleapis.com/v0/b/astralio.appspot.com/o/Viewer-galaxy.png?alt=media&token=8237b619-587e-4fd2-88dc-f5dbf8107aa2" alt=""/>
                 {/* <video autoPlay={true} loop={true} playsInline={true} >
                     <source src="/videos/galaxy.mp4" type="video/mp4" />
                 </video> */}
             </Wrap>
             <Wrap>
-                <img src="/img/viewer/viewer-cosmos.png" alt=""/>
+                <img src="https://firebasestorage.googleapis.com/v0/b/astralio.appspot.com/o/Viewer-cosmos.png?alt=media&token=ce0e33da-653d-4269-b570-330f71ada9b8" alt=""/>
                 {/* <video autoPlay={true} loop={true} playsInline={true} >
                     <source src="/videos/galaxy.mp4" type="video/mp4" />
                 </video> */}
             </Wrap>
             <Wrap>
-                <img src="/img/viewer/viewer-facts.png" alt=""/>
+                <img src="https://firebasestorage.googleapis.com/v0/b/astralio.appspot.com/o/Viewer-facts.png?alt=media&token=00387db9-b936-4ec6-9aca-bf291e51a680" alt=""/>
                 {/* <video autoPlay={true} loop={true} playsInline={true} >
                     <source src="/videos/facts.mp4" type="video/mp4" />
                 </video> */}
