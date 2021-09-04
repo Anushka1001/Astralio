@@ -1,0 +1,11 @@
+*{
+    top:0;
+    right:0;
+    left:0;
+    font-family: 'Seoge UI', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    box-sizing: border-box;
+}
+a{
+    text-decoration:none;
+    cursor:pointer;
+}
